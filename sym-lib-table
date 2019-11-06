@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name mux)(type Legacy)(uri ${KIPRJMOD}/mux.lib)(options "")(descr ""))
+  (lib (name muxbreakout-rescue)(type Legacy)(uri ${KIPRJMOD}/muxbreakout-rescue.lib)(options "")(descr ""))
+)

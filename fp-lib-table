@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name muxbreakout)(type KiCad)(uri "$(KIPRJMOD)/muxbreakout.pretty")(options "")(descr ""))
+)
